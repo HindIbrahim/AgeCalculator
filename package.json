@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "react-native-modal-datetime-picker": "7.5.0",
-    "react-native-paper": "2.16.0"
-  }
-}
